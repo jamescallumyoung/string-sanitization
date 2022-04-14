@@ -23,6 +23,6 @@ const sanitizedEmail = sanitizeEmail('hello@example.com');
 const sanitizedEmail = sanitizeEmail('hello@example.com', { prefix: 'email' });
 // => email:aGVsbG9AZXhhbXBsZS5jb20=
 
-const sanitizedName = sanitizeEmail('Darth Vader');
+const sanitizedName = sanitizeName('Darth Vader');
 // => D**** V****
 ```
