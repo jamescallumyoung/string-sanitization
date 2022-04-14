@@ -1,6 +1,6 @@
 {
   "name": "@jych/string-sanitization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "String sanitization utils.",
   "main": "dist/index.js",
   "scripts": {
